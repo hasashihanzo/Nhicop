@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "He luu cậu!",
-  text2: "Trả lời thật lòng hoặc bị chém :D.",
-  text3: "Cậu yêu tui rùii có phải không nào :>",
-  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm người yêu tui rùi đó nha :v",
-  text5: "Ngáo à ???",
-  text6: "Chắc chắn rồi :D",
-  text7: "Lí do cậu yêu tớ là gì thế :vvvv",
+  text1: "He luu minionnnnnnn!",
+  text2: "Tui có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaa.",
+  text3: "Cậu yêu tui có phải không nào :>",
+  text4: "Nếu cậu ko trả lời mà thoát ra tức là muốn làm vợ tui rùi đó nha :v",
+  text5: "Cậu ảo tưởng à ???",
+  text6: "Yêu ơi là yêu <3",
+  text7: "lí do cậu thích tớ đi :vvvv",
   text8: "Gửi cho tớ <3",
-  text9: "Vì Nhi dangyeu cựccccccccc <3 ",
-  text10: "Tui biết mà ^^ Vậy làm người yêu tui nhaaa. Yêu cậuuuuuu :33",
+  text9: "Vì anh dễ thương vllllll <3 ",
+  text10: "Anh biết mà ^^ Bé minion cũng dễ thương lắm đấy nhó. Chúc em 8/3 luôn xinh đẹp và cười thật tươi nhóooo với lại chơi game nhớ gánh anh đó ",
   text11:
-    "Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàooo",
-  text12: "Okiii chắc chắn ròiiii <3",
+    "Tối nay nhớ chúc ngủ ngon tui đấy nhóoo :v Giờ thì inbox tui đi trùi đợi gì nữaaaaa",
+  text12: "Okii lunn <3",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/cop.nhi.50";
+            window.location = "https://www.facebook.com/profile.php?id=100029741415725";
           },
         });
       }
